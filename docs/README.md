@@ -1,4 +1,4 @@
-# JsDbg: Browser-based debugging extensions
+# **JsDbg**: Browser-based debuggiger xtensions
 JsDbg is a tool that provides browser developers with a web-based platform for native debugger extensions. Browser developers can use this tool to visualize large and complex data structures within the web platform, such as the DOM tree and accessibility tree. Unlike traditional debugging extensions that are debugger specific, JsDbg extensions are written with web technologies to run in the browser, which allows them to work across platforms and debuggers. By leveraging the benefits of HTML/CSS/JS, the extensions can also have richer user interfaces and functionality than what is typically present in a debugging extension.
 
 # Using JsDbg
